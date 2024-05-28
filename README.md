@@ -35,4 +35,12 @@ Para el desarrollo del presente proyecto se empleó la metodología CRISP-DM. Y 
 
 ![Arquitectura del proyecto](https://github.com/Ingenieco/tf_aa_uao/blob/main/imagenes/arquitectura.svg)
 
+### [Gestión de procesos - Trello] (https://trello.com/b/86Xuoozl)
+
+Se construyó un tablero con la gestión de procesos, gestionado a través de Trello. Donde se establecieron lassiguientes listas de actividades:
+* Lista de tareas
+* En proceso
+* Pendientes
+* Terminados
+
 
