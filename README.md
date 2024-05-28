@@ -1,4 +1,3 @@
-
 # Proyecto Fnal Aprendizaje Automático
 
 
@@ -8,16 +7,20 @@
 
 ## Tabla de contenido
 
- - [Descripción](https://github.com/Ingenieco/dane/tree/main/codigos_2024)
- - [Código](https://github.com/Ingenieco/uao_gad/blob/main/Proyecto_Final.ipynb)
- - [Resultados](https://github.com/Ingenieco/dane/tree/main/datos_resultados)
+ - [Introducción]()
+ - [Entendimiento del negocio]()
+ - [Entendimiento de los datos]()
+ - [Preparacón de los datos]()
+ - [Uso de los modelos]()
+ - [Evaluación de mejores modelos]()
+ - [Recomendaciones finales]()
 
 
 ## Autores
 - Andrés Tabango
 - Luz María Redondo
 - Héctor Gómez
-- [@ingenieco](https://github.com/Ingenieco)
+- [Carlos Gutiérrez - @ingenieco](https://github.com/Ingenieco)
 
 
 ## 🔗 Links
