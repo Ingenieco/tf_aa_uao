@@ -33,6 +33,6 @@ El siguiente proyecto tiene como objetivo evaluar diferentes modelos de clasific
 
 Para el desarrollo del presente proyecto se empleó la metodología CRISP-DM. Y en consecuencia se definió la siguiente Arquitectura del Proyecto.
 
-[Arquitectura del proyecto](https://github.com/Ingenieco/tf_aa_uao/blob/main/imagenes/arquitectura.svg)
+![Arquitectura del proyecto](https://github.com/Ingenieco/tf_aa_uao/blob/main/imagenes/arquitectura.svg)
 
 
