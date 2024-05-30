@@ -45,7 +45,7 @@ Se construyó un tablero con la gestión de procesos, gestionado a través de Tr
 * Terminados
 
 ## Entendimiento del negocio
-```
+
 El valor de un bien raíz no sólo está determinado por sus características estrictamente residenciales, comerciales o industriales, sino también por los complejos procesos de inversión, especulación y arbitraje que tienen lugar con el crecimiento y desarrollo urbano de las ciudades, con la congestión de las áreas urbanas inducida por el mayor poblamiento y el crecimiento de la edificación, y con las políticas de regulación urbana que implementa la autoridad, entre otros. 
 
 La Teoría de Precios Hedónicos pretende explicar el valor de un bien raíz, entendido como un conjunto de atributos (superficie, aptitud de uso del suelo, calidad de la construcción, diseño interior y exterior, áreas verdes, ubicación, características del vecindario, etc.), en función de cada uno de ellos, obteniendo sus respectivas valoraciones y, por ende, demandas implícitas. 
@@ -54,9 +54,8 @@ En otras palabras, la teoría permite identificar la importancia relativa de cad
 
 $$V = f(I, V, S, E)$$
 
-Siendo $I$: Características dle inmueble
+Siendo $I$: características del inmueble; $V$: características del vecindario; $S$: características del nivel de equipamiento exterior; $E$: externalidades presentes en el entorno del bien inmueble
 
-```
 ## EDA
 [Gestión de procesos - Trello](https://trello.com/b/86Xuoozl)
 
