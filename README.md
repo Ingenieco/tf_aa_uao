@@ -57,5 +57,6 @@ $$V = f(I, V, S, E)$$
 Siendo $I$: características del inmueble; $V$: características del vecindario; $S$: características del nivel de equipamiento exterior; $E$: externalidades presentes en el entorno del bien inmueble
 
 ## EDA
-[Gestión de procesos - Trello](https://trello.com/b/86Xuoozl)
+[Gestión de procesos - Trello](https://github.com/Ingenieco/tf_aa_uao/blob/main/notebooks/EDA.ipynb)
+Ver mapa [mapa interactivo](https://github.com/Ingenieco/tf_aa_uao/blob/main/imagenes/mapa.html)
 
