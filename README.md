@@ -58,5 +58,5 @@ Siendo $I$: características del inmueble; $V$: características del vecindario;
 
 ## EDA
 [Gestión de procesos - Trello](https://github.com/Ingenieco/tf_aa_uao/blob/main/notebooks/EDA.ipynb)
-Ver mapa [mapa interactivo](https://github.com/Ingenieco/tf_aa_uao/blob/main/imagenes/mapa.html)
+Ver mapa [mapa interactivo](https://github.com/Ingenieco/tf_aa_uao/blob/main/imagenes/mapa.html){:target = "_blank"}
 
