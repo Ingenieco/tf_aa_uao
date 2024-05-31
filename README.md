@@ -61,4 +61,6 @@ Siendo $I$: características del inmueble; $V$: características del vecindario;
 
 Ver mapa [mapa interactivo](https://github.com/Ingenieco/tf_aa_uao/blob/main/imagenes/mapa.html){target="_blank"}
 
+<a href = "https://github.com/Ingenieco/tf_aa_uao/blob/main/imagenes/mapa.html" target="_blank">Abrir archivo HTML en una nueva pestaña</a>
+
 
