@@ -28,9 +28,9 @@
 
 
 ## Introducción
-```
-El siguiente proyecto tiene como objetivo evaluar diferentes modelos de clasificación y de predicción para un conjunto de datos de viviendas en venta en la ciudad de Medellín. A través de modelos supervisados y no supervisados se quiere predecir valores de inmuebles en venta y, clasificarlos en apartamentos o casas.
-```
+
+El siguiente proyecto tiene como objetivo evaluar diferentes modelos de clasificación y de predicción para un conjunto de datos de viviendas en venta en la ciudad de Medellín. A través de modelos supervisados y no supervisados se quiere predecir valores de inmuebles en venta y, clasificarlos en apartamentos o casas, a través de la teoría de precios hedónicos.
+
 Para el desarrollo del presente proyecto se empleó la metodología CRISP-DM. Y en consecuencia se definió la siguiente Arquitectura del Proyecto.
 
 ### Arquitectura
@@ -59,8 +59,6 @@ Siendo $I$: características del inmueble; $V$: características del vecindario;
 ## EDA
 [Gestión de procesos - Trello](https://github.com/Ingenieco/tf_aa_uao/blob/main/notebooks/EDA.ipynb)
 
-Ver mapa [mapa interactivo](https://github.com/Ingenieco/tf_aa_uao/blob/main/imagenes/mapa.html){target="_blank"}
-
-<a href = "https://github.com/Ingenieco/tf_aa_uao/blob/main/imagenes/mapa.html" target="_blank">Abrir archivo HTML en una nueva pestaña</a>
+Ver mapa [mapa interactivo](https://github.com/Ingenieco/tf_aa_uao/blob/main/imagenes/mapa.html)
 
 
