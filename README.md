@@ -59,7 +59,8 @@ Siendo $I$: características del inmueble; $V$: características del vecindario;
 ## EDA
 [Acceso a Notebook](https://github.com/Ingenieco/tf_aa_uao/blob/main/notebooks/EDA.ipynb)
 
-## Implementación modelos y resultados
-[Acceso a Notebook](https://github.com/Ingenieco/tf_aa_uao/blob/main/notebooks/EDA.ipynb)
+## Implementación modelos
+[Acceso a Notebook KNN](https://github.com/Ingenieco/tf_aa_uao/blob/main/notebooks/modelo_knn.ipynb)
+[Acceso a Notebook DBSCAN](https://github.com/Ingenieco/tf_aa_uao/blob/main/notebooks/DBSCAN.ipynb)
 
 
