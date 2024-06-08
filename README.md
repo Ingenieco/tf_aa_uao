@@ -29,7 +29,7 @@
 
 ## Introducción
 
-El siguiente proyecto tiene como objetivo evaluar diferentes modelos de clasificación y de predicción para un conjunto de datos de viviendas en venta en la ciudad de Medellín. A través de modelos supervisados y no supervisados se quiere predecir valores de inmuebles en venta y, clasificarlos en apartamentos o casas, a través de la teoría de precios hedónicos.
+El siguiente proyecto tiene como objetivo evaluar diferentes modelos de clasificación y de predicción para un conjunto de datos de viviendas en venta en la ciudad de Medellín. A través de modelos no supervisados se requiere predecir valores de inmuebles en venta y, hallar agrupamientos o clústeres; basado en la teoría de precios hedónicos.
 
 Para el desarrollo del presente proyecto se empleó la metodología CRISP-DM. Y en consecuencia se definió la siguiente Arquitectura del Proyecto.
 
