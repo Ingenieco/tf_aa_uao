@@ -1,5 +1,5 @@
 
-# Proyecto Fnal Aprendizaje Automático
+# Proyecto Aprendizaje Automático
 
 
 
@@ -16,10 +16,7 @@
  - [Recomendaciones finales]()
 
 
-## Autores
-- Andrés Tabango
-- Luz María Redondo
-- Héctor Gómez
+## Autore
 - [Carlos Gutiérrez - @ingenieco](https://github.com/Ingenieco)
 
 
